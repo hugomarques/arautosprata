@@ -26,12 +26,12 @@ A lista a seguir descreve as regras especiais seguidas na campanha.
 ### Ranger
 * É possível usar o ranger proposto no artigo do [Unearthed Arcana](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)
 
-## Skills
+## *Skills*
 
-### Medicine
-* Permitir um personagem caído gastar um DVs para se curar - DC 10
+### *Medicine*
+* Permitir um personagem caído gastar 1 DV para se curar - DC 10
 * Curar exaustão - DC 15
-* Permite um personagem gastar DVs durante uma short/long rest - DC 10 (ver Descanso e Cura abaixo).
+* Permite um personagem gastar DVs durante uma *short/long rest* - DC 10 (ver Descanso e Cura abaixo).
 
 ## *Feats*
 
@@ -44,9 +44,11 @@ A lista a seguir descreve as regras especiais seguidas na campanha.
 Por ser uma regra opcional multiclasse é aprovada para uso nessa campanha com algumas restrições.
 
 1. A idéia deve ser discutida com antecedência entre jogador e DM.
-2. Level dip não será permitido.
+2. *Level dip* não será permitido.
 
-## Combat
+## Downtime
+
+## Combate
   
 ### Iniciativa baseada em velocidade
 
@@ -75,6 +77,9 @@ Dúvidas:
 6. O que acontece caso o usuário decida não soltar a magia?
   - O slot não é perdido mas o usuário fica restrito às ações descritas no item 3. dessa seção.
 
+### Acertos e Erros críticos
+
+TBD
 
 ### Manobras
 
@@ -101,6 +106,23 @@ Referência: *Dungeon Master's Guide* página 271.
 
 ## Exploração e o mundo
 
+### Itens comuns e mágicos
+
+#### Adquirindo itens
+Guerra e destruição afetam as terras centrais. Equipamento e itens comuns se tornaram coisas raras à medida que exércitos e cidades consomem mais rápido do que artesãos e ferreiros podem produzir.
+
+1. Todos os itens do *Player's handbook* custam 2x preço.
+2. É praticamente impossível encontrar os itens mágicos desejados à venda. Ainda é possível usar a ação de *downtime* para procurar itens mágicos mas raramente o aventureiro consegue achar algo específico.
+
+#### Consertando itens
+
+1. Itens danificados em combate podem ser consertados durante uma *long rest* com um teste da *tool* específica:
+    * Armas e armaduras de metal: *blacksmith*
+    * Armaduras de couro: *leatherworks*, 
+2. O custo é 1/10 do valor total do item.
+
+TBD
+
 ### Descanso e cura
 
 #### *Short rest*
@@ -108,14 +130,46 @@ Referência: *Dungeon Master's Guide* página 271.
 * *Short rests* duram 5 minutos.
 * A primeira short rest diária é gratuita.
 * É necessário que o jogador gaste ao menos 1 dado de vida para receber o efeito dela.
+* É possível usufruir de magias que ajudem com o teste de perícia, desde que tais magias durem o tempo necessário de uma short rest (5 minutos). Lembre-se que o teste é feito representando 5 minutos de cuidado e não em 1 momento exato.
+* É possível receber ajuda nesse teste desde que o "ajudante" possua treinamento em *Medicine*.
 
 #### *Long rest*
 * É necessário um teste de medicina DC 10 para utilizar os benefícios de uma short rest.
 * Um teste separado de medicina pode ser usado para curar exaustão.
 * É necessário que o jogador gaste ao menos 1 dado de vida para receber o efeito de uma short rest.
+* * É possível usufruir de magias que ajudem com o teste de perícia, desde que tais magias durem o tempo necessário de uma *long rest* (8 horas). Lembre-se que o teste é feito representando 8 horas de cuidado e não em 1 momento exato.
+* É possível receber ajuda nesse teste desde que o "ajudante" possua treinamento em *Medicine*.
 
 #### *Restoration* (preciso confirmar o nome no Xanathar)
 * 1 semana de descanso cura todos os pontos de vida do personagem.
 * O personagem cura 1/4 dos DvS por semana de descanso. Mínimo de 1 dado de vida por semana.
+
+### Peso
+Usaremos as regras variantes presentes no livro do jogador. Em resumo:
+1. *Strength* x 5 sem penalidades.
+2. *Strength* x 10 sofre *encumbrance*.
+3. *Strength* x 15 sofre *heavy encumbrance*.
+
+### Água e Comida
+Aguá e comida são necessárias e no geral estão incluídas como parte dos kits. 
+No geral, os kits contém água e comida para 1 semana de exploração. Para jornadas além disso, é recomendado que os aventureiros adquiram ração extra para viagem como parte do seu *downtime* e planejamento.
+
+## Perguntas Frequentes
+
+### Eu posso dar counterspell no inimigo?
+
+### Pode sacar/guardar uma arma como parte da ação de movimento/ataque?
+
+### Soltar uma arma no chão é ação livre?
+
+### Posso dar investida?
+
+### Posso usar movimento na minha ação?
+
+### Nessa regra de iniciativa, eu posso mudar minha ação quando chega minha vez? Ex: eu anunciei que ia dar um melee attack num monstro que tá no meu alcance, mas chegou minha vez e nenhum monstro está alcançável. Posso sacar um arco e atirar? Ou fazer outro tipo de ação?
+
+### Teste de um atributo entra proficiência? Como eu diferencio pra não ficar perguntando isso toda rolagem?
+
+### Mestre, eu posso rolar a perícia/atributo X para realizar Y?
 
 
