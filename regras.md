@@ -4,6 +4,9 @@ title: Regras da Campanha
 permalink: /regras/
 ---
 
+* TOC
+{:toc}
+
 ## Sumário
 
 A lista a seguir descreve as regras especiais seguidas na campanha. 
@@ -26,12 +29,13 @@ A lista a seguir descreve as regras especiais seguidas na campanha.
 ## Skills
 
 ### Medicine
-* Permitir um personagem caído gastar um DVs para se curar - DC
-* Curar exaustão - DC
-* Permitir um personagem gastar DVs durante uma short/long rest - DC
+* Permitir um personagem caído gastar um DVs para se curar - DC 10
+* Curar exaustão - DC 15
+* Permite um personagem gastar DVs durante uma short/long rest - DC 10 (ver Descanso e Cura abaixo).
 
-## Feats
+## *Feats*
 
+* Todo *feat* deve ser antecipadamente discutido com o mestre. Algumas restrições:
 * Lucky - Banido. 
   *  Rerolagens ficam restritas a poderes de classe e inspiration points.
 
@@ -55,7 +59,7 @@ Regra descrita no *Dungeon Master's Guide* página 271. Como regra de bom senso,
 Algumas regras especiais: (baseadas no post do [*Angry DM*](http://angrydm.com/2015/02/fine-i-wrote-about-speed-factor-initiative-in-dd-5e/) )
 1. O jogador deve declarar sua *ACTION* e sua *BONUS ACTION*. O modificador de iniciativa será a mais lenta entre as duas.
 2. O jogador pode preparar uma ação. A ação não é considerada preparada até que o turno do jogador chegue. Aquela ação fica preparada fica preparada até o próximo turno do mesmo jogador, mesmo que ele declare uma outra ação.
-3. Ação diferentes podem receber um bônus ou penalidade entre -5 e +5 a depender a critério do mestre.
+3. Ação diferentes podem receber um bônus ou penalidade entre -5 e +5 a critério do mestre.
 
 Dúvidas:
 1. O que eu faço com preparar?
@@ -74,15 +78,26 @@ Dúvidas:
 
 ### Manobras
 
-* Flanquear
+#### Flanquear
 
-Descrito em detalhes no *Dungeon Master's Guide* página X.
+Referência: *Dungeon Master's Guide* página 251.
 
-* Acrobacia
+#### Acrobacia
 Como uma *action* ou *bonus action* é possível atravessar uma região ocupada pelo oponente. A DC é um teste resistido de acrobacia.
 
-* Climb on top of huge monsters
-Descrito em detalhes no *Dungeon Master's Guide* página 271.
+Referência: *Dungeon Master's Guide* página 272.
+
+#### Escalando criaturas gigantes
+
+1. A criatura deve ser grande o suficiente para comportar o atacante, a critério do mestre.
+2. O atacante realiza um teste de *Strength (Athletics)* ou *Dexterity (Acrobatics)* resistido por um teste de *Dexterity (Acrobatics)*.
+3. Enquanto em cima do oponente:
+    1. Ataques contra a criatura são feito com *Advantage*. 
+    2. O atacante pode se locomover dentro da área da criatura, o deslocamento é tratado como terreno difícil.
+4. A criatura pode tentar se desvencilhar do oponente realizando um teste de *Strength (Athletics)* resistido por um teste *Strength (Athletics)* ou *Dexterity (Acrobatics)*. A criatura menor escolhe que habilidade irá utilizar para se defender.
+5. A descrição acima são recomendações, os detalhes ficam à critério do mestre.
+
+Referência: *Dungeon Master's Guide* página 271.
 
 ## Exploração e o mundo
 
@@ -90,8 +105,17 @@ Descrito em detalhes no *Dungeon Master's Guide* página 271.
 
 #### *Short rest*
 * É necessário um teste de medicina DC 10 para utilizar os benefícios de uma short rest.
-* *Short rests* duram 5 minutos. É necessário que o jogador gaste ao menos 1 dado de vida para receber o efeito dela.
+* *Short rests* duram 5 minutos.
+* A primeira short rest diária é gratuita.
+* É necessário que o jogador gaste ao menos 1 dado de vida para receber o efeito dela.
 
 #### *Long rest*
-* A medicine check can temporary cure exhaustion.
-* Characters need to sleep. Nights with no sleep will need a CON save or a exausthion level will occur.
+* É necessário um teste de medicina DC 10 para utilizar os benefícios de uma short rest.
+* Um teste separado de medicina pode ser usado para curar exaustão.
+* É necessário que o jogador gaste ao menos 1 dado de vida para receber o efeito de uma short rest.
+
+#### *Restoration* (preciso confirmar o nome no Xanathar)
+* 1 semana de descanso cura todos os pontos de vida do personagem.
+* O personagem cura 1/4 dos DvS por semana de descanso. Mínimo de 1 dado de vida por semana.
+
+
