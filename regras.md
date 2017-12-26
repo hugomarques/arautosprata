@@ -77,9 +77,10 @@ Dúvidas:
 6. O que acontece caso o usuário decida não soltar a magia?
   - O slot não é perdido mas o usuário fica restrito às ações descritas no item 3. dessa seção.
 
-### Acertos e Erros críticos
+### Acertos e Falhas Críticas
 
-TBD
+* 20 é sempre um acerto crítico, mesmo em ability checks e saving throws.
+* 1 é sempre uma falha, mesmo em ability checks e saving throws.
 
 ### Manobras
 
@@ -114,21 +115,26 @@ Guerra e destruição afetam as terras centrais. Equipamento e itens comuns se t
 1. Todos os itens do *Player's handbook* custam 2x preço.
 2. É praticamente impossível encontrar os itens mágicos desejados à venda. Ainda é possível usar a ação de *downtime* para procurar itens mágicos mas raramente o aventureiro consegue achar algo específico.
 
-#### Consertando itens
+#### Danificando e consertando itens
 
-1. Itens danificados em combate podem ser consertados durante uma *long rest* com um teste da *tool* específica:
+1 vez por rodada, ao sofrer um acerto crítico a armadura ou escudo do personagem é danificada, à escolha do jogador. Cada item pode ser danificado um número de vezes igual aos pontos de CA acima de 10, por exemplo, uma *plate* poderia ser danificada 8 vezes antes de ser totalmente destruída. O escudo pode ser danificado 1 vez antes de ser totalmente destruído. Sempre que danificada, a armadura/escudo perde 1 ponto de CA.
+
+1 vez por rodada, ao realizar uma falha crítica durante um ataque o personagem danifica a sua arma. Cada arma suporta um total de pontos de dano igual ao seu dado de dano em escala descrescente: 2d6-1d12-1d10-1d8-1d6-1d4. Por exemplo, uma espada longa poderia ser danificada 3x visto que seu dano é 1d8. Sempre que for danificada a arma perde um dado de dano seguindo a progressão descrita anteriormente.
+
+1. Um conserto temporário durante uma *short rest* é possível para reduzir a penalidade de CA/dano com um teste da perícia apropriada DC 15. Uma falha previne consertos temporários até que um conserto permamente seja feito.
+2. Um conserto permanente pode ser providenciado durante *downtime* ou durante *long rest*:
+3. Durante downtime o custo para conserto é 1/10 do valor total do item para cada ponto danificado. Esse custo inclui mão de obra e materiais. Esse tipo de conserto pode ser feito durante downtime. É necessário achar um especialista de acordo com o item que precise ser consertado.
+4. Durante uma *long rest* o custo é o equivalente a 1/20 do preço do item em materiais. Para isso o personagem precisa passar em um teste da tool específica DC 10.
     * Armas e armaduras de metal: *blacksmith*
-    * Armaduras de couro: *leatherworks*, 
-2. O custo é 1/10 do valor total do item.
-
-TBD
+    * Armaduras de couro: *leatherworker*, 
+    * Mantos e robes: *weaver*
 
 ### Descanso e cura
 
 #### *Short rest*
 * É necessário um teste de medicina DC 10 para utilizar os benefícios de uma short rest.
 * *Short rests* duram 5 minutos.
-* A primeira short rest diária é gratuita.
+* A primeira short rest diária é gratuita, isso significa que não é necessário gastar DVs e nem teste de *medicine* para receber os efeitos dela caso o personagem **não esteja ferido**. O teste de *medicine* e os DVs ainda são necessários caso o personagem esteja ferido e deseje se curar.
 * É necessário que o jogador gaste ao menos 1 dado de vida para receber o efeito dela.
 * É possível usufruir de magias que ajudem com o teste de perícia, desde que tais magias durem o tempo necessário de uma short rest (5 minutos). Lembre-se que o teste é feito representando 5 minutos de cuidado e não em 1 momento exato.
 * É possível receber ajuda nesse teste desde que o "ajudante" possua treinamento em *Medicine*.
@@ -169,7 +175,7 @@ Não, é parte de sua ação de movimento ou ação normal. Vide regra acima.
 Não existe a manobra investida em D&D 5e.
 
 ### Posso usar movimento na minha ação?
-TBD
+Não, você pode usar sua ação para realizar um *dash*.
 
 ### Nessa regra de iniciativa, eu posso mudar minha ação quando chega minha vez? Ex: eu anunciei que ia dar um *melee attack* num monstro que está no meu alcance, mas chegou minha vez e nenhum monstro está alcançável. Posso sacar um arco e atirar? Ou fazer outro tipo de ação?
 Você não precisa anunciar algo tão específico. Você apenas precisa anunciar que vai realizar um ataque corpo a corpo, como você fará sua ação pode ficar em aberto.
@@ -197,7 +203,3 @@ Você pode usar guidance sempre que sua ação puder ser executada dentro de um 
 Por exemplo, você pode conjurar g*uidance* antes de abrir a porta, antes de desarmar uma armadilha, antes de negociar com o padeiro, antes de entrar na sala do trono para falar com o diplomata (se a conversa for rápida), antes de atravessar o poço de lava, etc... a magia está longe de ser inútil.
 
 Um contra exemplo seria uma *short rest* dura 5 minutos de tratamento, o seu teste não é feito no ínicio e nem no final da sessão de tratamento mas representa algo feito durante dela. Logo, fora do alcance da magia, nada abusivo e dentro dos parâmetros de um *cantrip*.
-
-
-
-
